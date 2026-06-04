@@ -31,6 +31,8 @@ git config --global credential.helper store
 
 The next time you clone or push, Git will save the token to `~/.git-credentials`.
 
+<br>
+
 ## **Cloning with SSH**
 >***Recommended for regular git users***
 
