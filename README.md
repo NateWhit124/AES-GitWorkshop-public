@@ -5,6 +5,9 @@
 - [Cloning with HTTPS](#cloning-with-https)
 - [Cloning with SSH](#cloning-with-ssh)
 
+---
+<br>
+
 ## **Cloning with HTTPS** 
 >***Recommended for first-time git users***
 
