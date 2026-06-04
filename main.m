@@ -4,6 +4,7 @@ a = 1;
 b = 2;
 result = add(a,b);
 fprintf("Result: %d\n",result);
+x = 5;
 function1();
 
 function result = add(a,b)
